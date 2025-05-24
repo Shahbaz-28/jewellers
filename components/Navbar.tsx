@@ -63,7 +63,7 @@ export default function Navbar() {
           {/* WhatsApp Contact Button */}
           <div className="hidden sm:flex sm:items-center">
             <a
-              href="https://wa.me/1234567890"
+              href="https://wa.me/779678964"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center px-4 py-2 bg-green-500 hover:bg-green-600 text-white font-montserrat text-sm font-medium rounded-full transition-colors duration-300 shadow-md hover:shadow-lg"

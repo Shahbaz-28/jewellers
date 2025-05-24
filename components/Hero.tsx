@@ -71,7 +71,7 @@ export default function Hero() {
   const currentContent = slideContent[currentSlide]
 
   return (
-    <div className="relative overflow-hidden h-screen max-h-[800px] w-full">
+    <div className="relative overflow-hidden h-screen max-h-[600px] w-full">
       {/* Background Slideshow */}
       <div
         className="absolute inset-0 flex transition-transform duration-1000 ease-in-out"
