@@ -6,7 +6,7 @@ export const categories = [
     title: "Rings",
     imageUrl: "https://assets.macaly-user-data.dev/qw4x1j9qayijxdafxi1lxu6c/qoeaf6a6ipxgsirao4r4isfq/7WkVlcoTOBN-suyj5_Ntp/tmpyf4liw7l.webp",
     slug: "rings",
-    description: "From stunning engagement rings to elegant everyday pieces, our ring collection showcases exceptional craftsmanship and design."
+    description: "From stunning engagement rings to RK everyday pieces, our ring collection showcases exceptional craftsmanship and design."
   },
   {
     title: "Necklaces",
@@ -16,7 +16,7 @@ export const categories = [
   },
   {
     title: "Earrings",
-    imageUrl: "https://assets.macaly-user-data.dev/qw4x1j9qayijxdafxi1lxu6c/qoeaf6a6ipxgsirao4r4isfq/Nj3KpjERIc2e5rLZ2Cm8B/tmpd8yl7j9s.webp",
+    imageUrl: "/images/ear-jewelry.jpg",
     slug: "earrings",
     description: "From classic studs to dramatic drops, our earring collection adds the perfect finishing touch to any look."
   },
@@ -47,7 +47,7 @@ export const featuredItems = [
   {
     id: "3",
     name: "Sapphire Drop Earrings",
-    imageUrl: "https://assets.macaly-user-data.dev/qw4x1j9qayijxdafxi1lxu6c/qoeaf6a6ipxgsirao4r4isfq/eEGiBK5cktGwNJu81gN2F/tmptoqmqyrf.webp",
+    imageUrl: "/images/earrings2.jpg",
     category: "Earrings",
     price: "$749"
   },
@@ -154,42 +154,42 @@ export const jewelryData = {
     {
       id: "e1",
       name: "Sapphire Drop Earrings",
-      imageUrl: "https://assets.macaly-user-data.dev/qw4x1j9qayijxdafxi1lxu6c/qoeaf6a6ipxgsirao4r4isfq/eEGiBK5cktGwNJu81gN2F/tmptoqmqyrf.webp",
+      imageUrl: "/images/earrings2.jpg",
       category: "Earrings",
       price: "$749"
     },
     {
       id: "e2",
       name: "Diamond Stud Earrings",
-      imageUrl: "https://assets.macaly-user-data.dev/qw4x1j9qayijxdafxi1lxu6c/qoeaf6a6ipxgsirao4r4isfq/Nj3KpjERIc2e5rLZ2Cm8B/tmpd8yl7j9s.webp",
+      imageUrl: "/images/ear-jewelry.jpg",
       category: "Earrings",
       price: "$899"
     },
     {
       id: "e3",
       name: "Gold Hoop Earrings",
-      imageUrl: "https://assets.macaly-user-data.dev/qw4x1j9qayijxdafxi1lxu6c/qoeaf6a6ipxgsirao4r4isfq/Nj3KpjERIc2e5rLZ2Cm8B/tmpd8yl7j9s.webp",
+      imageUrl: "/images/ear-jewelry.jpg",
       category: "Earrings",
       price: "$399"
     },
     {
       id: "e4",
       name: "Pearl Drop Earrings",
-      imageUrl: "https://assets.macaly-user-data.dev/qw4x1j9qayijxdafxi1lxu6c/qoeaf6a6ipxgsirao4r4isfq/Nj3KpjERIc2e5rLZ2Cm8B/tmpd8yl7j9s.webp",
+      imageUrl: "/images/ear-jewelry.jpg",
       category: "Earrings",
       price: "$599"
     },
     {
       id: "e5",
       name: "Ruby Cluster Earrings",
-      imageUrl: "https://assets.macaly-user-data.dev/qw4x1j9qayijxdafxi1lxu6c/qoeaf6a6ipxgsirao4r4isfq/Nj3KpjERIc2e5rLZ2Cm8B/tmpd8yl7j9s.webp",
+      imageUrl: "/images/ear-jewelry.jpg",
       category: "Earrings",
       price: "$849"
     },
     {
       id: "e6",
       name: "Chandelier Diamond Earrings",
-      imageUrl: "https://assets.macaly-user-data.dev/qw4x1j9qayijxdafxi1lxu6c/qoeaf6a6ipxgsirao4r4isfq/Nj3KpjERIc2e5rLZ2Cm8B/tmpd8yl7j9s.webp",
+      imageUrl: "/images/ear-jewelry.jpg",
       category: "Earrings",
       price: "$1,299"
     },

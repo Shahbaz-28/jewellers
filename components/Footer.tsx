@@ -9,7 +9,7 @@ export default function Footer() {
           {/* Brand */}
           <div className="space-y-4">
             <h2 className="font-playfair text-xl font-bold text-jewelry-gold">
-              ELEGANT JEWELS
+              RK JEWELS
             </h2>
             <p className="font-montserrat text-sm text-gray-300">
               Crafting timeless elegance since 1995.
@@ -91,7 +91,7 @@ export default function Footer() {
               </li>
               <li className="flex items-center space-x-2">
                 <Mail size={16} className="text-jewelry-gold" />
-                <span className="text-gray-300">contact@elegantjewels.com</span>
+                <span className="text-gray-300">contact@RKjewels.com</span>
               </li>
               <li className="text-gray-300 mt-2">
                 123 Luxury Avenue<br />
@@ -104,7 +104,7 @@ export default function Footer() {
 
         <div className="border-t border-gray-700 mt-10 pt-6">
           <p className="font-montserrat text-sm text-gray-400 text-center">
-            &copy; {new Date().getFullYear()} Elegant Jewels. All rights reserved.
+            &copy; {new Date().getFullYear()} RK Jewels. All rights reserved.
           </p>
         </div>
       </div>

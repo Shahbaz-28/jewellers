@@ -15,7 +15,7 @@ const montserrat = Montserrat({
 });
 
 export const metadata: Metadata = {
-  title: "Elegant Jewels | Fine Jewelry Catalog",
+  title: "RK Jewels",
   description: "Discover our exquisite collection of fine jewelry pieces.",
 };
 

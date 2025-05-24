@@ -79,7 +79,6 @@ export default function CategoryPage({ params }: CategoryParams) {
               name={item.name}
               imageUrl={item.imageUrl}
               category={item.category}
-              price={item.price}
             />
           ))}
         </div>

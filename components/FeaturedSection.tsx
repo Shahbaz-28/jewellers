@@ -22,7 +22,7 @@ export default function FeaturedSection() {
               name={item.name}
               imageUrl={item.imageUrl}
               category={item.category}
-              price={item.price}
+              // price={item.price}
             />
           ))}
         </div>
